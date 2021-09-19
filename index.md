@@ -7,11 +7,48 @@ I'm 23 years old and from Benin's city of Bassila. I currently live in Izmir, Tu
 for the major Computer Engineering.
 # Tech Stack Expertise
 
- Languagues  | Frameworks| Years of Experience
- ------------|-----------|--------------------
-Java  | Spring Boot| 6
-JavaScript  | Angular, React| 3
+<table>
+<tr><th>  Programming Languages </th><th>  Frameworks</th><th>  Tools</th></tr>
+<tr><td>
+ 
+ Languague  | Years of Experience
+ ------------|--------------------
+Java  | 6
+JavaScript  | 4
+Python| 4
+C#| 1
+HTML/CSS| 5
+ SQL | 5
+ 
+</td>
+ <td>
 
+
+
+ Framework  | Years of Experience
+ ------------|--------------------
+ Spring| 2
+ Angular| 3
+ React | 2
+ .Net|1
+</td>
+ <td>
+
+
+
+ Tool  | Years of Experience
+ ------------|--------------------
+ Tomcat| 2
+ Redis| 3
+ Hazel | 2
+ Jenkis|1
+ Docker| 2
+ Hibernetes|1
+ Maven|2
+  
+</td>
+ 
+ </tr> </table>
 
 # I speak 
 * English (UK)
