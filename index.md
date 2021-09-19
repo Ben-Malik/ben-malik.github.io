@@ -32,6 +32,7 @@ HTML/CSS| 5
  Angular| 3
  React | 2
  .Net|1
+  
 </td>
  <td>
 
