@@ -4,7 +4,7 @@ I'm 23 years old and from Benin's city of Bassila and been programming since 17.
 [Izmir Institute of Technolgy](https://en.iyte.edu.tr)
 for the major Computer Engineering.
 
-At Yaşar, I take part to e-commerce projects where with responsibilities such as
+At Yaşar, I take part to e-commerce projects with responsibilities such as
 designing and implementing clean codes for Software apps both backend and frontend.
 
 I've taken part to Software projects of many industries including Gaming, e-Commerce and Entertainment.
@@ -33,4 +33,4 @@ C#| .Net |
 
 Got something you'd like to chat on? I'm online on [Instagram](https://www.instagram.com/benmalik_/) or drop me a message at benmaliktchamalam[at]gmail.com.
 
-See some of my projects at [Github Account](https://github.com/ben-malik).
+See some of my public projects at [Github](https://github.com/ben-malik).
