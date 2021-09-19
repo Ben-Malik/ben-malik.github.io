@@ -8,8 +8,13 @@ for the major Computer Engineering.
 # Tech Stack Expertise
 
 <table>
-<tr><th>  Programming Languages </th><th>  Frameworks</th><th>  Tools</th></tr>
-<tr><td>
+<tr>
+ <th>  Programming Languages </th>
+ <th>  Frameworks</th>
+ <th>  Tools</th>
+</tr>
+<tr>
+ <td>
  
  Languague  | Years of Experience
  ------------|--------------------
@@ -44,8 +49,8 @@ HTML/CSS| 5
  Maven|2
   
 </td>
- 
- </tr> </table>
+ </tr> 
+</table>
 
 # I speak 
 * English (UK)
