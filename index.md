@@ -1,7 +1,7 @@
 # I am Ben Malik, Full Stack Java Developer at [Yaşar Bilgi](https://yasarbilgi.com.tr). 
 
 I'm 23 years old and from Benin's city of Bassila and been programming since 17. I currently live in Izmir, Turkey where I went to college named 
-[Izmir Institute of Technolgy](en.iyte.edu.tr)
+[Izmir Institute of Technolgy](https://en.iyte.edu.tr)
 for the major Computer Engineering.
 
 At Yaşar, I take part to e-commerce projects where with responsibilities such as
