@@ -11,7 +11,6 @@ for the major Computer Engineering.
 <tr><th>  Programming Languages </th><th>  Frameworks</th><th>  Tools</th></tr>
 <tr><td>
  
- 
  Languague  | Years of Experience
  ------------|--------------------
 Java  | 6
@@ -24,8 +23,6 @@ HTML/CSS| 5
 </td>
  <td>
 
-
-
  Framework  | Years of Experience
  ------------|--------------------
  Spring| 2
@@ -35,8 +32,6 @@ HTML/CSS| 5
   
 </td>
  <td>
-
-
 
  Tool  | Years of Experience
  ------------|--------------------
