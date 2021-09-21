@@ -19,7 +19,7 @@ I enjoy reading, cooking, doing sports and hanging out with friends. Alternative
  Languague  | Framework | Tool
  ------------|----------|----------
 Java  | Spring Boot | Maven, Hibernate, Redis, Hazelcast, Camel, Jenkis, Docker
-JavaScript  | Angular, React | Ajax, jQuery, Tabulator
+JavaScript  | Angular, React, React Native | Ajax, jQuery, Tabulator
 HTML/CSS| | Thymleaf
  SQL | | Postgresl, MySQL
  Python| Flask | 
