@@ -1,4 +1,4 @@
-# This is Ben-Malik, a Full Stack Java Developer at [Yaşar Bilgi](https://yasarbilgi.com.tr). 
+# I'm Ben Malik, a Full Stack Developer at [Yaşar Bilgi](https://yasarbilgi.com.tr). 
 
 I'm 23 years old and from Benin's city of Bassila and been programming since 17. I currently live in Izmir, Turkey where I went to college named 
 [Izmir Institute of Technolgy](https://en.iyte.edu.tr)
@@ -18,7 +18,7 @@ I enjoy reading, cooking, doing sports and hanging out with friends. Alternative
  
  Languague  | Framework | Tool
  ------------|----------|----------
-Java  | Spring Boot | Maven, Hibernate, Redis, Hazelcast, Camel, Jenkis
+Java  | Spring Boot | Maven, Hibernate, Redis, Hazelcast, Camel, Jenkis, Docker
 JavaScript  | Angular, React | Ajax, jQuery, Tabulator
 HTML/CSS| | Thymleaf
  SQL | | Postgresl, MySQL
