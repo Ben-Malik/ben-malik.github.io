@@ -19,16 +19,16 @@ I enjoy reading, cooking, doing sports and hanging out with friends. Alternative
  Languague  | Framework | Tool
  ------------|----------|----------
 Java  | Spring Boot | Maven, Hibernate, Redis, Hazelcast, Camel, Jenkis, Docker
-JavaScript  | Angular, React, React Native | Ajax, jQuery, Tabulator
-HTML/CSS| | Thymleaf
+JavaScript  | Angular, React, React Native | Redux, Mobx, TypeScript, Ajax, jQuery, Tabulator
+HTML/CSS| | Thymleaf, Bootstrap
  SQL | | Postgresl, MySQL
  Python| Flask | 
 C#| .Net | 
  
   
 # Speak
-* French(native) 
-* English (UK)
+* French (native) 
+* English 
 * Turkish
 
 Got something you'd like to chat on? I'm online on [Instagram](https://www.instagram.com/benmalik_/) or drop me a message at benmaliktchamalam[at]gmail.com.
