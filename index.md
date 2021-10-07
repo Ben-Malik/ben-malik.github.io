@@ -18,12 +18,12 @@ I enjoy reading, cooking, doing sports and hanging out with friends. Alternative
  
  Languague  | Framework | Tool
  ------------|----------|----------
-Java  | Spring Boot | Maven, Hibernate, Redis, Hazelcast, Camel, Jenkis, Docker
-JavaScript  | Angular, React, React Native | Redux, Mobx, TypeScript, Ajax, jQuery, Tabulator
+Java  | Spring Boot | Maven, Hibernate, Redis, Hazelcast, Camel, Jenkis, Docker, Intelij IDEA, STS
+JavaScript  | Angular, React, React Native | Redux, Mobx, TypeScript, Ajax, jQuery, Tabulator, Visual Studio Code
 HTML/CSS| | Thymleaf, Bootstrap
- SQL | | Postgresl, MySQL
- Python| Flask | 
-C#| .Net | 
+ SQL | | Postgresl, MySQL, Dbeaver
+ Python| Flask | Pycharm
+C#| .Net | Visual Studio, MSSQL
  
   
 # Speak
