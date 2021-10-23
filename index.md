@@ -1,4 +1,4 @@
-# I'm Ben Malik, a Full Stack Developer at [Yaşar Bilgi](https://yasarbilgi.com.tr). 
+# I'm Ben Malik, a Full Stack Developer at <a href="https://eng.yasarbilgi.com.tr/" target="_blank">Yaşar Bilgi</a>
 
 I'm 23 years old and from Benin's city of Bassila and been programming since 17. I currently live in Izmir, Turkey where I went to college named 
 [Izmir Institute of Technolgy](https://en.iyte.edu.tr)
