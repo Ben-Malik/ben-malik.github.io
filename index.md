@@ -13,6 +13,13 @@ I've been involving in Software projects of many industries including Gaming, e-
 
 I enjoy reading, cooking, doing sports and hanging out with friends. Alternatively, I spend some of my spare time reading and doing cool things on Cyber security.
 
+  
+# Speak
+* French (native) 
+* English 
+* Turkish
+
+
 # Tech Stack of Expertise
 
  
@@ -24,12 +31,7 @@ HTML/CSS| | Thymleaf, Bootstrap
  SQL | | Postgresl, MySQL, Dbeaver
  Python| Flask | Pycharm
 C#| .Net | Visual Studio, MSSQL
- 
-  
-# Speak
-* French (native) 
-* English 
-* Turkish
+
 
 Got something you'd like to chat on? I'm online on [Instagram](https://www.instagram.com/benmalik_/) or drop me a message at benmaliktchamalam[at]gmail.com.
 
