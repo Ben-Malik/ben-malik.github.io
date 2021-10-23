@@ -1,13 +1,13 @@
 # I'm Ben Malik, a Full Stack Developer at <a href="https://eng.yasarbilgi.com.tr/" target="_blank">Yaşar Bilgi</a>
 
 I'm 23 years old and from Benin's city of Bassila and been programming since 17. I currently live in Izmir, Turkey where I went to college named 
-[Izmir Institute of Technolgy](https://en.iyte.edu.tr)
+<a href="https://en.iyte.edu.tr" target="_blank">Izmir Institute of Technolgy</a>
 for the major Computer Engineering.
 
-At Yaşar Bilgi, the Tech department of [Yasar Holding](https://yasar.com.tr/en/), I take part to e-commerce projects with responsibilities such as
+At Yaşar Bilgi, the Tech department of <a href="https://yasar.com.tr/en/" target="_blank">Yasar Holding</a>, I take part to e-commerce projects with responsibilities such as
 designing and implementing clean codes for Software apps both backend and frontend.
 
-I've taken part to Software projects of many industries including Gaming, e-Commerce and Entertainment.
+I've been involving in Software projects of many industries including Gaming, e-Commerce and Entertainment.
 
 > ### *I just love solving real life problems using computer programs!*
 
