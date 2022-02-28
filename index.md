@@ -35,4 +35,4 @@ C#| .Net | Visual Studio, MSSQL | 2
 
 Got something you'd like to chat on? I'm online on [Instagram](https://www.instagram.com/benmalik_/) or drop me a message at benmaliktchamalam[at]gmail.com.
 
-See some of my public projects at [Github](https://github.com/ben-malik) and do visit my portflio at [Ben Malik](https://bentchamalm.web.app).
+See some of my public projects at [Github](https://github.com/ben-malik) and do visit my portflio at [Ben Malik](https://tchamalam.com).
