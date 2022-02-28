@@ -7,7 +7,7 @@ for the major Computer Engineering.
 At Yaşar Bilgi, the Tech department of <a href="https://yasar.com.tr/en/" target="_blank">Yasar Holding</a>, I take part to e-commerce projects with responsibilities such as
 designing and implementing clean codes for Software apps both backend and frontend.
 
-I've been involving in Software projects of many industries including Gaming, e-Commerce and Entertainment.
+I've been involving in Software projects of many industries including Gaming, e-Commerce and Entertainment, and I am keen and hungry to take part to new and challenging ones.
 
 > ### For me, developing sustainable, and maintainable apps, writing clean, efficient and well tested code are far more than a job, they are rather my daily vitamins!
 
