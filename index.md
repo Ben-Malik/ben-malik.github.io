@@ -9,7 +9,7 @@ designing and implementing clean codes for Software apps both backend and fronte
 
 I've been involving in Software projects of many industries including Gaming, e-Commerce and Entertainment.
 
-> ### *I just love solving real life problems using computer programs!*
+> ### For me, developing sustainable, and maintainable apps, writing clean, efficient and well tested code are far more than a job, they are rather my daily vitamins!
 
 I enjoy reading, cooking, doing sports and hanging out with friends. Alternatively, I spend some of my spare time reading and doing cool things on Cyber security.
 
