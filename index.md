@@ -16,21 +16,21 @@ I enjoy reading, cooking, doing sports and hanging out with friends. Alternative
   
 # Speak
 * French (native) 
-* English 
-* Turkish
+* English (C2 level)
+* Turkish (C1 level)
 
 
 # Tech Stack of Expertise
 
  
- Languague  | Framework | Tool
- ------------|----------|----------
-Java  | Spring Boot | Maven, Hibernate, Redis, Hazelcast, Camel, Jenkis, Docker, Intelij IDEA, STS
-JavaScript  | React, React Native, Angular, Vue.js | Redux, Mobx, TypeScript, Ajax, jQuery, Tabulator, Visual Studio Code
-HTML/CSS| | Thymleaf, Bootstrap
- SQL | | Postgresl, MySQL, Dbeaver
- Python| Flask | Pycharm
-C#| .Net | Visual Studio, MSSQL
+ Languague  | Framework | Tool | Years of Expertise
+ ------------|----------|---------- | ----------
+Java  | Spring Boot | Maven, Hibernate, Redis, Hazelcast, Camel, Jenkis, Docker, Intelij IDEA, STS | 6
+JavaScript  | React, React Native, Angular, Vue.js | Redux, Mobx, TypeScript, Ajax, jQuery, Tabulator, Visual Studio Code | 5
+HTML/CSS| | Thymleaf, Bootstrap | 7
+ SQL | | Postgresl, MySQL, Dbeaver | 6
+ Python| Flask | Pycharm | 2
+C#| .Net | Visual Studio, MSSQL | 2
 
 
 Got something you'd like to chat on? I'm online on [Instagram](https://www.instagram.com/benmalik_/) or drop me a message at benmaliktchamalam[at]gmail.com.
